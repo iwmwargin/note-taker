@@ -31,6 +31,7 @@ app.get('/api/notes', (req, res) => {
 app.post("/api/notes", (req, res) => {
     let newNote = req.body;
     notes.push(newNote);
+    // adds id number to each note
     let num = 1
     notes.forEach((note) => {
         note.id = num;
