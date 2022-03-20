@@ -9,7 +9,7 @@
   * [Usage](#usage)
   * [Link to URL](#live-url-link)
   * [Contributors](#contributors)
-  * [Testing](#tests)
+  * [Issues](#issues)
   * [Questions](#questions)
   * [License](#license)
   
@@ -50,10 +50,15 @@
 
   ## Live URL Link
   https://note-taker-501.herokuapp.com/
+
   ## Usage
   Go to the link provided and add your notes!
+
   ## Contributors
   Eric Wargin with starter code provided by UNC Bootcamp.
+
+  ## Issues
+  I would like to go back in and fix delete functionality.
 
   ## Screenshots
   Image of Landing Page
