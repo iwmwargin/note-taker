@@ -44,7 +44,20 @@ app.post("/api/notes", (req, res) => {
 
 // Deleting notes
 app.delete("/api/notes/:id", (req, res) => {
+    const remove = req.params.id;
 
+    fs.readFile("./db/db.json", (err, data) => {
+        if(err) throw err;
+        notes = JSON.parse(data);
+        for (let i=0; i < notes.length; i++) {
+            
+            if (notes[i].id === Number(remove)) {
+                notes.splice([i], 1);
+            }
+        }
+        fs.writeFileSync("./Develop/db/db.json", JSON.stringify(notes));
+    })
+    
 })
 
 app.listen(PORT, e => console.log("Running"))
