@@ -18,7 +18,17 @@
   ## Installation
   
   ## Languages
-   JavaScript,HTML,CSS,ES6,Bootstrap,Node
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   <br>
+   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+   <br>
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   <br>
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   <br>
+   
+   
+
   ## Live URL Link
   https://note-taker-501.herokuapp.com/
   ## Usage
@@ -28,13 +38,13 @@
 
   ## Screenshots
   Image of Landing Page
-  <img src="https://github.com/iwmwargin/readme-creator/blob/main/assets/Terminal.png">
+  <img src="https://github.com/iwmwargin/note-taker/blob/main/public/assets/images/Landing%20Page.png">
   
   Image of Empty Note Title and Text
-  <img src="https://github.com/iwmwargin/readme-creator/blob/main/assets/Terminal.png">
+  <img src="https://github.com/iwmwargin/note-taker/blob/main/public/assets/images/Blank.png">
   
   Image of Note Taker with Data on Screen
-  <img src="https://github.com/iwmwargin/readme-creator/blob/main/assets/Terminal.png">
+  <img src="https://github.com/iwmwargin/note-taker/blob/main/public/assets/images/Data.png">
   
   ## Questions? 
   iwmwargin@gmail.com
